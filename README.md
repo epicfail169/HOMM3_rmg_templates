@@ -36,4 +36,18 @@
 
 #### Изменения зоны игроков
 
-- Максимальное кол-во утоп = 3
+Установил максимальное кол-во объектов в каждой зоне:
+
+- Dragon Utopia = 3
+- Mansion = 1
+- Imp Cache = 6
+- Medusa Stores = 6
+- Crypt = 10
+- Cyclopes Stockpile = 3
+- University = 1
+- School of War = 4
+- School of Magic = 4
+- Mercenary Camp = 4
+- Marletto Tower = 4
+- Star Axis = 4
+- Garden of Revelation = 4
