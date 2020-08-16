@@ -8,7 +8,7 @@ WARNING: all values keep the same
 
 #### Global changes for template
 
-- Deleted объекты Seer's Hut
+- Deleted Seer's Hut
 - Disabled Eagle Eye
 - Deleted Eagle Eye artifacts (Bird of Perception, Stoic Watchman, Emblem of Cognizance)
 
